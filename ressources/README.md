@@ -1,4 +1,7 @@
 # thingy-post-rcp-client
+
+[![hackmd-github-sync-badge](https://hackmd.io/1q7fSSGSStWbjSV1K1kKeA/badge)](https://hackmd.io/1q7fSSGSStWbjSV1K1kKeA)
+
 ## Background
 Over a long journey of simplifying the interfaces between webapps and services as well as service and services the tool evolved  to a [common RPC](https://hackmd.io/dZ_QRu5YR2eHGDeZb-lYcg?view) interface.
 
