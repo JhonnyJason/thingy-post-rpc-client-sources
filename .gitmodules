@@ -1,0 +1,3 @@
+[submodule "source/rpclientmodule"]
+	path = source/rpclientmodule
+	url = git@github.com:JhonnyJason/thingy-post-rpc-client-sources-rpcclientmodule.git

@@ -1,2 +1,2 @@
-#import * as component from "./component.js"
-#export component
+export *  from "./rpcerrors.js"
+export *  from "./rpcpostclient.js"
